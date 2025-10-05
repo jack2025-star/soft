@@ -1,2 +1,2 @@
-# soft
-python --
+# soft_study
+
